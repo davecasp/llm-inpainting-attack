@@ -3,8 +3,6 @@
 ## Run Inpainting attack via Adversarial LLM toolkit
 [https://github.com/LLM-QC/AdversariaLLM/tree/feat/add_inpainting_attack](https://github.com/LLM-QC/AdversariaLLM)
 
-Note that this implementation leverages a set of pre-sampled prompts per target of the JailbreakBench dataset. 
-
 ## Code
 
 ### Installation
